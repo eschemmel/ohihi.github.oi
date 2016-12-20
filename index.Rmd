@@ -1,0 +1,11 @@
+---
+title: <center>Hawaii Ocean Health Index
+author:  
+output:
+  html_document:
+    fig_width: 1
+---
+
+----
+<center><img src="images/OH_Hawaii.png" width="1200px"></center>  
+

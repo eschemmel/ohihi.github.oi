@@ -1,0 +1,56 @@
+---
+title: <center>Goals
+author: 
+date: 
+output: html_document
+---
+
+#Common Vision
+Ocean Health is defined as an ocean that can provide benefits and services for people now and into the future. Furthermore, health was defined as a state of being that is pono (sustainable/respectful); where functions and processes can exist, perpetuate, and evolve, including the presence and role of humans. 
+
+A common vision for the West Hawaii ocean health index is a resilient and productive system that provides services and resources to sustain Hawaii Island residents and economy perpetually into the future. To achieve this vision several measures were suggested that included: getting control of shoreline development and its impacts, reducing land-based pollution sources, feral cat control, sustainable fishing practices, invasive species management, healthy tourism and visitor education focused on sustainable use and conservation, and incorporation of traditional Hawaiian resource management practices and values.
+
+#Goals
+The global Ocean Health Index developed 10 goals that encompass ocean health: Food Provision, Natural Products, Clean Water, Coastal Protection, Carbon Storage, Biodiversity, Tourism & Recreation, Livelihoods & Economies, Artisanal Fishing Opportunities, and Sense of Place. These goals for the OHI were adapted from the global framework and the ten goals for the Hawaii OHI are Food Provision, Natural Products, Clean Water, Coastal Protection, Biodiversity, Tourism & Livelihoods, Recreation, Artisanal Fishing Opportunities, and Sense of Place. The Carbon Storage goal is tabled for now as it is seen as lacking the necessary information such as extend of seagrasses and carbon storage capacity. Additionally mangroves are present in Hawaiʻi but are invasive and there is not a consensus on whether to include mangroves for this goal.
+
+##Food Provision
+Wild Caught Fisheries: Measures the amount of wild-caught seafood (pelagic, bottom, and nearshore fishes) that can be sustainably harvested. Data gaps are recognized such as the lack of stock assessments for many harvested species. Additionally, traditional stock assessments do not take ecosystem impacts into account and ecosystem models are preferred if and when they are developed for West Hawaiʻi.
+
+
+Mariculture: Measures the sustainable production potential (fishponds) and current production of seafood weighted by a sustainability/risk score (use of non-native species and the % of feed imported).
+
+
+##Natural Products
+This goal measures the sustainable harvest of ocean-derived resources for purposes other than direct consumption. Resources under this goal include salt, shells, medicinal products and aquarium fish. The goal will be measured as the commercial value (revenue) and/or cultural or medicinal value of products weighted by a risk/sustainability score that will be developed for each species assessed.
+
+
+##Tourism & Livelihoods (Livelihoods & Economies)
+Most livelihoods in West Hawaiʻi are directly or indirectly linked to tourism. This goal aims to measure the benefits that tourism provides while taking into account the integrity of the culture of Hawaiʻi and the protection of the natural environment, i.e. sustainable tourism.
+
+
+##Recreation
+This goal measures the opportunities for residents to enjoy coastal areas through recreation measured through access to beaches and coastal areas and number of participants in recreational activities.
+
+
+##Coastal Protection
+This goal measures the natural protection of coastal habitats measured as the extent and condition of beaches/sand dunes, coral reefs, wetlands that provide coastal protection from inundation and erosion. The target for wetlands is no net loss of wetlands and/or number of acres effectively managed. The target for beaches/sand dunes will be a temporal reference to the historical extent. The condition for coral reefs will be measured through percent coral cover and/or the ratio of cacifiers to non-calcifiers. Goal also could include other indicators of coastal protective ability including intertidal area, slope and rugosity of the nearshore environment, and the ratio of coastal development to the natural environment. 
+
+
+##Clean Water
+This goal measures the degree to which local waters are unpolluted by natural and human made causes including five pollutants: sediment, nutrients, pathogens, trash/marine debris, and chemicals. Groundwater is the major source of nutrient, chemical, and pathogens entering the marine environment in West Hawaiʻi.
+
+
+##Biodiversity
+
+Habitats: The habitats sub-goal of biodiversity measures the extent, condition, and level of management protection of coastal and terrestrial habitats. Habitats include coral reefs, wetlands, anchialine ponds, pelagic water column, beaches, fishponds, and watersheds. 
+
+
+Species: This sub-goal of biodiversity measures the population status of species including biodiversity (species richness), abundance, percent endemism, and risk of extinction (from IUCN red list classifications).
+
+
+##Artisanal Fishing Opportunities
+This goal measures the opportunity for fishers to supply seafood for themselves, families, and community. 
+
+
+##Sense of Place
+The past, present, and future connection between people and place.

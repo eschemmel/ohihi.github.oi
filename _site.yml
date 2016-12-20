@@ -1,0 +1,19 @@
+name: "Hawaiʻi Ocean Health Index"
+navbar:
+  title: "HOME"
+  left:
+    - text: "About"
+      href: about.html
+    - text: "OHI"
+      href: OHI.html
+    - text: "Goals"
+      href: goals.html
+    - text: "Contribute"
+      href: contribute.html
+output_dir: "."
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+#    include:
+#      after_body: _footer.html
